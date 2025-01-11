@@ -37,3 +37,4 @@ You can configure the application using environment variables:
 
 - `PORT` - The port on which the server will run (default: 8080)
 - `JWT_SECRET` - The secret key used for signing JWT tokens
+- `MONGO_URI` - The URI of your MongoDB instance
